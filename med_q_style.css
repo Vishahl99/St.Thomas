@@ -1,0 +1,81 @@
+@media only screen and (max-width: 610px) {
+    .top{
+      
+      flex-direction: column;
+      animation: fadeIn .5s ease-out;
+      animation: fadeout .5s ease-out;
+    }
+    .top div{
+      justify-content: center;
+    }
+    .menu2{
+      display: block;
+    }
+    .my_menu{
+      z-index: 1;
+      display: none;
+      
+      top: 30px;
+      left: 5px;
+      justify-content: space-between;
+    }
+    .menu-toggle {
+      z-index: 5;
+      width: 30px;
+      height: 20px;
+      position: fixed;
+      top: 5px;
+      left: 5px;
+      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+  }
+  @media only screen and (min-width: 611px){
+    .menu-toggle{
+      display: none; 
+    }
+  }
+
+
+  
+  
+  .line {
+    width: 100%;
+    height: 4px;
+    background-color: #4cc9f0;
+    transition: 0.3s;
+  }
+  
+  
+  .menu-toggle.open .line:nth-child(1) {
+    transform: translateY(8px) rotate(-45deg);
+  }
+  
+  .menu-toggle.open .line:nth-child(2) {
+    opacity: 0;
+  }
+  
+  .menu-toggle.open .line:nth-child(3) {
+    transform: translateY(-8px) rotate(45deg);
+  }
+
+  
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  @keyframes fadeout {
+    from {
+      opacity: 1;
+    }
+    to{
+      opacity: 0;
+    } 
+  }

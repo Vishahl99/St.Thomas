@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>St. Thomas School</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="med_q_style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
@@ -25,7 +25,6 @@
         }
         .top div {
             padding: 15px;
-            line-height: 10px;
         
         }
         .top h1{
@@ -336,8 +335,8 @@
 <body>
 
     <div class="top">
-        <img src="image/logo.jpeg" alt="">
-        <div>
+        <div><img src="image/logo.jpeg" alt=""></div>
+        <div class="title">
             <h2>St. Thomas Junior High School</h2>
             <h3>
                 Partawal - Maharajganj (U.P.)
@@ -352,6 +351,11 @@
             
         </div>
     </div>
+    <div class="menu-toggle" onclick="toggleMenu()">
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+      </div>
 
     <div class="my_menu">
         <ul class="menu">
@@ -666,6 +670,7 @@ function showSlides(n) {
 
 
 </script>
+<script src="media.js"></script>
 </body>
 
 </html>
