@@ -1,0 +1,812 @@
+<!DOCTYPE html>
+<html lang="zxx">
+    
+
+<head>
+        <!-- meta tag -->
+        <meta charset="utf-8">
+        <title>SBC|Vision and Mission</title>
+        <meta name="description" content="">
+        <!-- responsive tag -->
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- favicon -->
+        <link rel="apple-touch-icon" href="apple-touch-icon.html">
+        <link rel="shortcut icon" type="image/x-icon" href="images/fav.png">
+        <!-- bootstrap v4 css -->
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        <!-- font-awesome css -->
+        <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+        <!-- animate css -->
+        <link rel="stylesheet" type="text/css" href="css/animate.css">
+        <!-- owl.carousel css -->
+        <link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
+		<!-- slick css -->
+        <link rel="stylesheet" type="text/css" href="css/slick.css">
+        <!-- rsmenu CSS -->
+        <link rel="stylesheet" type="text/css" href="css/rsmenu-main.css">
+        <!-- rsmenu transitions CSS -->
+        <link rel="stylesheet" type="text/css" href="css/rsmenu-transitions.css">
+        <!-- magnific popup css -->
+        <link rel="stylesheet" type="text/css" href="css/magnific-popup.css">
+		<!-- flaticon css  -->
+        <link rel="stylesheet" type="text/css" href="fonts/flaticon.css">
+        <!-- style css -->
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <!-- responsive css -->
+        <link rel="stylesheet" type="text/css" href="css/responsive.css">
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+            <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body class="inner-page">
+        <!--Preloader area start here-->
+        <div class="book_preload">
+            <div class="book">
+                <div class="book__page"></div>
+                <div class="book__page"></div>
+                <div class="book__page"></div>
+            </div>
+        </div>
+		<!--Preloader area end here-->
+		
+        <!--Full width header Start-->
+		<div class="full-width-header">
+
+			<!-- Toolbar Start -->
+			<div class="rs-toolbar">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6">
+							<div class="rs-toolbar-left">
+								<div class="welcome-message">
+									<i class="fa fa-bank"></i><span>WELCOME TO S. B. COLLEGE, SHAHAPUR</span> 
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="rs-toolbar-right">
+								<div class="toolbar-share-icon">
+									<ul>
+										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+									</ul>
+								</div>
+								<a href="http://library.sbcshahapur.ac.in/" class="apply-btn"><b>WAY TO LIBRARY</b></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Toolbar End -->
+		
+			<!--Header Start-->
+			<header id="rs-header-2" class="rs-header-2">
+				<!-- Menu Start -->
+				<div class="menu-area menu-sticky">
+					
+							<div class="col-lg-12 col-md-12">
+								<div class="main-menu">
+									<a class="rs-menu-toggle"><i class="fa fa-bars"></i>Menu</a>
+									<nav class="rs-menu">
+												<ul class="nav-menu">
+											<!-- Home -->
+											<li class="current-menu-item current_page_item menu-item-has-children"> <a href="index.html" class="home">Home</a>
+											  <!--<ul class="sub-menu">
+
+												<li class="active"><a href="index.html">Home One</a> </li>
+												<li><a href="index2.html">Home Two</a> </li>
+												<li><a href="index3.html">Home Three</a></li>
+												<li><a href="index4.html">Home Four</a> </li>
+												<li><a href="index5.html">Home Five</a> </li>
+												<li><a href="instructor-home.html">Home Instructor</a> </li>
+											  </ul>-->
+											</li>
+											<!-- End Home -->
+
+											
+											
+                                            <!--About Menu Start-->
+                                            <li class="menu-item-has-children"> <a href="#">About Us</a>
+                                                <ul class="sub-menu">
+													<li> <a href="history.html">History</a></li>
+													<li> <a href="vision&mission.html">Vision and Mission</a></li>
+													<li><a href="management.html">Management</a></li>
+													<li><a href="principals_desk.html">Principal's Desk</a></li>
+													<li><a href="campus_map.html">Campus Map</a></li>
+                                                    
+                                                </ul>
+                                            </li>
+                                            <!--About Menu End-->s
+
+											<!-- Administration Start -->
+												<li class="menu-item-has-children"> <a href="#">Administration</a>
+                                                <ul class="sub-menu">
+													<li> <a href="principals_desk.html">Principal</a></li>
+													<li> <a href="admin_staff.html">Administrative Staff</a></li>
+													<li><a href="scholarship.html">Scholarship</a></li>
+													<li><a href="ordanance.html">Ordanance</a></li>
+													<li><a href="regulations.html">Regulations</a></li>
+                                                    
+                                                </ul>
+                                            </li>
+
+											<!-- Administration End -->
+											
+											
+											
+											
+										 <!-- Drop Down Pages Start -->
+											<li class="rs-mega-menu mega-rs"> <a href="#">Courses</a>
+                                                <ul class="mega-menu">
+                                                    <li class="mega-menu-container">
+                                                        <div class="mega-menu-innner">
+                                                            <div class="single-magemenu">
+                                                                <ul class="sub-menu">
+                                                                    <li><a href="courses.html">Our Courses</a></li>
+												   <li><a href="ugcommerce.html">Department of Commerce</a></li>
+												    <li><a href="ugmarathi.html">Department of Marathi</a></li>
+												   <li><a href="ughindi.html">Department of Hindi</a></li>
+                                                                </ul>
+                                                            </div>
+                                                            <div class="single-magemenu">
+                                                                <ul class="sub-menu">
+                                                                    <li><a href="ugenglish.html">Department of English</a></li>
+												   <li><a href="ughistory.html">Department of History</a></li>
+												   <li><a href="ugeconomics.html">Department of Economics</a></li>
+													 <li><a href="#"> </a></li>
+                                                                </ul>
+                                                            </div>
+                                                            <div class="single-magemenu">
+                                                                <ul class="sub-menu">
+                                                                    <li> <a href="bscit.html">Department of I.T.</a> </li>
+                                                                    <li> <a href="bbi.html">Department of Banking &amp; Insurance</a> </li>
+                                                                    <li> <a href="baf.html">Department of Accounting &amp; Finance</a> </li>
+                                                                    <li><a href="#"></a></li>
+                                                                </ul>
+                                                            </div>
+                                                            <div class="single-magemenu">
+                                                                <ul class="sub-menu">
+                                                                    <li> <a href="#"></a> </li>
+                                                                    <li> <a href="#"></a> </li>
+
+                                                                    <li><a href="#"></a></li>
+                                                                    <li><a href="#"></a></li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+											</li>
+											<!--Drop Down Pages End -->
+											
+											<!-- Admission Start-->
+											
+											<li class="menu-item-has-children"> <a href="#">Admission</a>
+                                                <ul class="sub-menu">
+													
+													<li> <a href="admission_form.html">Admission Form </a></li>
+													<li><a href="fees_structure.html">Fees Structure</a></li>
+													<li><a href="instructions.html">Eligibility</a></li>
+													<li><a href="cancellation_rules.html">Rules &amp; Regulations for Cancellation</a></li>
+												
+													<li><a href="prospectus.html">Prospectus</a></li>
+                                                    
+                                                </ul>
+                                            </li>
+												<!-- Admission End-->
+											
+											<!-- Examination Start-->
+											
+											<li class="menu-item-has-children"> <a href="#">Examination</a>
+                                                <ul class="sub-menu">
+													<li> <a href="examrules.html">Examinations Rules &amp; Regulations </a></li>
+													<li> <a href="exam.html">Exam Timetable </a></li>
+													<li><a href="results.html">Results</a></li>
+													<li><a href="oldqpapers.html">Old Question Papers</a></li>
+													
+                                                    
+                                                </ul>
+                                            </li>
+												<!-- Examination End-->
+											
+											<!-- Research Start-->
+											
+											<li class="menu-item-has-children"> <a href="#">Research</a>
+                                                <ul class="sub-menu">
+													
+													<li> <a href="research_center.html">Research Center </a></li>
+													<li><a href="research_guide.html">Research Guide</a></li>
+													<li><a href="research_publications.html">Research Publications</a></li>
+													<li><a href="projects.html">Minor and Major Projects</a></li>
+                                                    
+                                                </ul>
+                                            </li>
+												<!-- Research End-->
+											
+											<!-- Facilities Start-->
+											
+											<li class="menu-item-has-children"> <a href="#">Facilities</a>
+                                                <ul class="sub-menu">
+													
+													<li> <a href="internet_facility.html">Internet Facility </a></li>
+													<li><a href="itcenter.html">IT Center</a></li>
+													<li><a href="gymkhana.html">Gymkhana</a></li>
+                                                    <li><a href="http://library.sbcshahapur.ac.in/" target="_blank">Library</a></li>
+                                                </ul>
+                                            </li>
+												<!-- Facilities End-->
+											
+											
+											<!-- Ativities Start-->
+											
+											<li class="menu-item-has-children"> <a href="#">Activities</a>
+                                                <ul class="sub-menu">
+													<li><a href="wdc.html">Women Developement Cell</a></li>
+													<li> <a href="nss.html">NSS</a></li>
+													<li><a href="ncc.html">NCC</a></li>
+													<li><a href="sports.html">Sports</a></li>
+													<li><a href="cultural.html">Cultural</a></li>
+                                                    
+                                                </ul>
+                                            </li>
+												<!-- Activities End-->
+											
+											<!-- Naac Start-->
+											
+											<li class="menu-item-has-children"> <a href="#">NAAC</a>
+                                                <ul class="sub-menu">
+													
+													<li> <a href="iqac.html">IQAC</a></li>
+													<li> <a href="aqar.html">AQAR</a></li>
+													<li> <a href="ssr.html">SSR</a></li>
+													
+                                                </ul>
+                                            </li>
+												<!-- Naac End-->
+											
+
+
+											
+											
+
+                                            
+
+											<!--Contact Menu Start-->
+											<li> <a href="contact.html">Contact</a></li>
+								            <!--Contact Menu End-->
+										</ul>
+									</nav>
+								</div>
+								<!--<div class="searce-box">
+                                    <a class="rs-search" data-target=".search-modal" data-toggle="modal" href="#"><i class="fa fa-search"></i></a>
+                                </div>-->
+							</div>													
+						</div>
+				
+				<!-- Menu End -->
+			</header>
+			<!--Header End-->
+
+		</div>
+        <!--Full width header End-->
+		
+		<!-- Breadcrumbs Start -->
+		<div class="rs-breadcrumbs bg7 breadcrumbs-overlay">
+		    <div class="breadcrumbs-inner">
+		        <div class="container">
+		            <div class="row">
+		                <div class="col-md-12 text-center">
+		                    <h1 class="page-title">Vision and Mission</h1>
+		                    <ul>
+		                        <li>
+		                            <a class="active" href="index.html">Home</a>
+		                        </li>
+								<li><b>Vision and Mission</b></li>
+		                    </ul>
+		                </div>
+		            </div>
+		        </div>
+		    </div>
+		</div>
+		<!-- Breadcrumbs End -->
+		
+		<!-- History Start -->
+       <!-- <div class="rs-history sec-spacer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-12 rs-vertical-bottom mobile-mb-50">
+                    	<a href="#">
+							<img src="images/about/history.jpg" alt="History Image"/>
+                    	</a>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+		                <div class="abt-title">
+		                    <h2>OUR HISTORY</h2>
+		                </div>
+                    	<div class="about-desc">
+                			<p class="text-justify">The S. B. College was founded by a private trust named as Dnyanvardhini in August 1984, to cater to the educational needs of tribal and backward communities of Shahapur taluka of Thane district of Maharashtra. The college functioned on non-grant basis from 1984 to 1988, and thereafter got its full 100 percent grant from the Maharashtra government. The college is affiliated to the University of Mumbai. It is spread over an area of 6.5 acres. </p>
+
+                			<p class="text-justify">The college that started with only 99 students in 1984, has now 1726 students (1003 males and 723 females) on its rolls. Out of the total number of students, 86 per cent are from the tribal, scheduled caste and other backward communitises and the remaining 14 per cent from the general category. Presently, 41 per cent of the students are female students, out of which 85 per cent belong to the tribal and other backward communities. The college now offers 6 academic programmes: Five at the undergraduate level (UG)- B.A., B.com., B.Sc.I.T., B.Com with Banking &amp; Insurance and B.Com with Accounting &amp; Finance , one at the post graduate level (PG)- M.A. in Marathi, Hindi, English, History and Economics. Besides, the college is also managing the Study Centre of Yashwantrao Chavan Maharashtra Open University (Y.C.M.O.U.), Nasik for UG level program in Arts and Commerce.</p>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>-->
+        <!-- History End -->
+
+        <!-- Mission Start -->
+        <div class="rs-mission sec-color sec-spacer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-12 mobile-mb-50">
+		                <div class="abt-title">
+		                    <h2>OUR MISSION</h2>
+		                </div>
+                    	<div class="about-desc">
+                			<p class="text-justify">" To provide value based education and mould the character of the younger generation through a synthesis of science and spirituality so that their earnest endeavor to achieve progress and prosperity in life is matched by an ardent desire to extend selfless service to the society, one complementing the other. "</p>
+
+                			
+                    	</div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                    	<div class="row">
+                    		<div class="col-md-8 mobile-mb-30">
+                    			<a href="#">
+									<img src="images/about/Mission.png" alt="Mission Image"/>
+		                    	</a> 
+                    		</div>
+                    		<!--<div class="col-md-6">
+		                    	<a href="#">
+									<img src="images/about/mission2.jpg" alt="Mission Image"/>
+		                    	</a>                 			
+                    		</div>-->
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Mission End -->
+
+        <!-- Vision Start -->
+        <div class="rs-vision sec-spacer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-12 mobile-mb-50">
+                        <div class="vision-img rs-animation-hover">
+							<img src="images/about/vision2.jpg" alt="img02"/>
+							<!--<a class="popup-youtube rs-animation-fade" href="https://www.youtube.com/watch?v=3f9CAMoj3Ec" title="Video Icon">
+							</a>-->
+							<div class="overly-border"></div>
+						</div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+		                <div class="abt-title">
+		                    <h2>OUR VISION</h2>
+		                </div>
+                    	<div class="vision-desc">
+                			<p class="text-justify">" To be leading educational institution by providing world class education in diverse emerging disciplines to produce conscientious and learned professional who significantly contribute to socio-economic development of the nation. "</p>
+
+                			
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Vision End -->
+
+		 <!-- Goals and Objective Start -->
+        <div class="rs-mission sec-color sec-spacer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-12 mobile-mb-50">
+		                <div class="abt-title">
+		                    <h2>OUR GOALS AND OBJECTIVES</h2>
+		                </div>
+                    	<div class="about-desc">
+                			<p class="text-justify">" To impart Quality Education through knowledge and skills in the chosen area of study."</p>
+
+                			<p class="text-justify">" To provide opportunities for co-curricular, extra-curricular and extra mural activities aimed at all round development of personality."</p>
+							
+<p class="text-justify">" To develop individuals with multifaceted personality who will shoulder responsibilities of the family, the Society and the Nation. "</p>
+
+                    	</div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                    	<div class="row">
+                    		<div class="col-md-8 mobile-mb-30">
+                    			<a href="#">
+									<img src="images/about/Goals-Objectives.png" alt="Mission Image"/>
+		                    	</a> 
+                    		</div>
+                    		<!--<div class="col-md-6">
+		                    	<a href="#">
+									<img src="images/about/mission2.jpg" alt="Mission Image"/>
+		                    	</a>                 			
+                    		</div>-->
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Mission End -->
+        <!-- Calltoaction Start -->
+        <!--<div id="rs-calltoaction" class="rs-calltoaction sec-spacer bg4">
+            <div class="container">
+                <div class="rs-cta-inner text-center">
+                    <div class="sec-title mb-50 text-center">
+                        <h2 class="white-color">WEB DESIGN &amp; DEVLOPMENT COURSE</h2>      
+                        <p class="white-color">Fusce sem dolor, interdum in efficitur at, faucibus nec lorem.</p>
+                    </div>
+				    <a class="cta-button" href="#">Join Now</a>
+				</div>
+            </div>
+        </div>-->
+        <!-- Calltoaction End -->
+
+		<!-- Team Start -->
+       <!-- <div id="rs-team" class="rs-team sec-spacer">
+            <div class="container">
+                <div class="abt-title mb-70 text-center">
+                    <h2>OUR EXPERIENCED STAFFS</h2>      
+                	<p>Considering desire as primary motivation for the generation of narratives is a useful concept.</p>
+                </div>
+				<div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="false" data-autoplay-timeout="5000" data-smart-speed="1200" data-dots="true" data-nav="true" data-nav-speed="false" data-mobile-device="1" data-mobile-device-nav="true" data-mobile-device-dots="true" data-ipad-device="2" data-ipad-device-nav="true" data-ipad-device-dots="true" data-md-device="3" data-md-device-nav="true" data-md-device-dots="true">
+                    <div class="team-item">
+                        <div class="team-img">
+                            <img src="images/team/1.jpg" alt="team Image" />
+							<div class="normal-text">
+								<h3 class="team-name">ABD Rashid Khan</h3>
+                                <span class="subtitle">Vice Chancellor</span>
+							</div>
+                        </div>
+                        <div class="team-content">
+							<div class="overly-border"></div>
+                            <div class="display-table">
+                                <div class="display-table-cell">
+									<h3 class="team-name"><a href="teachers-single-2.html">ABD Rashid Khan</a></h3>
+									<span class="team-title">Vice Chancellor</span>
+                                    <p class="team-desc">Entrusted with planning, implementation and evaluation.</p>
+									<div class="team-social">
+										<a href="#" class="social-icon"><i class="fa fa-facebook"></i></a>
+										<a href="#" class="social-icon"><i class="fa fa-google-plus"></i></a>
+										<a href="#" class="social-icon"><i class="fa fa-twitter"></i></a>
+										<a href="#" class="social-icon"><i class="fa fa-pinterest-p"></i></a>
+									</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team-item">
+                        <div class="team-img">
+                            <img src="images/team/2.jpg" alt="team Image" />
+							<div class="normal-text">
+								<h3 class="team-name">Luyes Figery</h3>
+                                <span class="subtitle">A. Professor</span>
+							</div>
+                        </div>
+                        <div class="team-content">
+							<div class="overly-border"></div>
+                            <div class="display-table">
+                                <div class="display-table-cell">
+                                    <h3 class="team-name"><a href="teachers-single.html">Luyes Figery</a></h3>
+                                    <span class="team-title">A. Professor</span>
+                                    <p class="team-desc">Entrusted with planning, implementation and evaluation.</p>
+									<div class="team-social">
+										<a href="#" class="social-icon"><i class="fa fa-facebook"></i></a>
+										<a href="#" class="social-icon"><i class="fa fa-google-plus"></i></a>
+										<a href="#" class="social-icon"><i class="fa fa-twitter"></i></a>
+										<a href="#" class="social-icon"><i class="fa fa-pinterest-p"></i></a>
+									</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team-item">
+                        <div class="team-img">
+                            <img src="images/team/3.jpg" alt="team Image" />
+							<div class="normal-text">
+								<h3 class="team-name">Mr. Mahabub Alam</h3>
+                                <span class="subtitle">Assistant Professor</span>
+							</div>
+                        </div>
+                        <div class="team-content">
+							<div class="overly-border"></div>
+                            <div class="display-table">
+                                <div class="display-table-cell">
+                                    <h3 class="team-name"><a href="teachers-single-2.html">Mr. Mahabub Alam</a></h3>
+                                    <span class="team-title">Assistant Professor</span>
+                                    <p class="team-desc">Entrusted with planning, implementation and evaluation.</p>
+									<div class="team-social">
+										<a href="#" class="social-icon"><i class="fa fa-facebook"></i></a>
+										<a href="#" class="social-icon"><i class="fa fa-google-plus"></i></a>
+										<a href="#" class="social-icon"><i class="fa fa-twitter"></i></a>
+										<a href="#" class="social-icon"><i class="fa fa-pinterest-p"></i></a>
+									</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+				</div>
+			</div>
+		</div>-->
+        <!-- Team End -->
+
+        <!-- Branches Start -->
+        <!--<div id="rs-branches" class="rs-branches sec-color pt-100 pb-70">
+            <div class="container">
+                <div class="abt-title mb-70 text-center">
+                    <h2>OUR BRANCHES</h2>      
+                	<p>Considering desire as primary motivation for the generatio.</p>
+                </div>
+				<div class="row">
+					<div class="col-lg-3 col-md-6">
+						<div class="branches-item">
+							<img src="images/about/australia.png" alt="Australia Flag">
+							<h3>
+								<span>01</span>
+								Australia
+							</h3>
+							<p>
+								503  Old Buffalo Street<br>
+								Northwest City #205, Australia
+							</p>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-6">
+						<div class="branches-item">
+							<img src="images/about/china.png" alt="China Flag">
+							<h3>
+								<span>02</span>
+								China
+							</h3>
+							<p>
+								503  Old Buffalo Street<br>
+								Northwest City #205, China
+							</p>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-6">
+						<div class="branches-item">
+							<img src="images/about/india.png" alt="India Flag">
+							<h3>
+								<span>03</span>
+								India
+							</h3>
+							<p>
+								503  Old Buffalo Street<br>
+								Northwest City #205, India
+							</p>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-6">
+						<div class="branches-item">
+							<img src="images/about/united-states.png" alt="United States Flag">
+							<h3>
+								<span>04</span>
+								United States
+							</h3>
+							<p>
+								503  Old Buffalo Street<br>
+								Northwest City #205, United States
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>-->
+        <!-- Branches End -->
+		
+        <!-- Partner Start -->
+       <div id="rs-partner" class="rs-partner pt-70 pb-70">
+            <div class="container">
+				<div class="rs-carousel owl-carousel" data-loop="true" data-items="5" data-margin="80" data-autoplay="true" data-autoplay-timeout="5000" data-smart-speed="2000" data-dots="false" data-nav="false" data-nav-speed="false" data-mobile-device="2" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="4" data-ipad-device-nav="false" data-ipad-device-dots="false" data-md-device="5" data-md-device-nav="false" data-md-device-dots="false">
+                    <div class="partner-item">
+                        <a href="#"><img src="images/partner/ugc.jpg" height="170px" width="800px" alt="UGC Recognized"></a>
+                    </div>
+                    <div class="partner-item">
+                        <a href="#"><img src="images/partner/uom.jpg" height="170px" width="800px" alt="University of Mumbai "></a>
+                    </div>
+                    <div class="partner-item">
+                        <a href="#"><img src="images/partner/iso.jpg" height="170px" width="1000px" alt="ISO certified"></a>
+                    </div>
+                    <div class="partner-item">
+                        <a href="#"><img src="images/partner/best_college.jpg" height="170px" alt="Best College"></a>
+                    </div>
+                  <div class="partner-item">
+                        <a href="#"><img src="images/partner/naac.jpg" alt="naac ccrediated"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Partner End -->
+       
+        <!-- Footer Start -->
+        <footer id="rs-footer" class="bg3 rs-footer">
+			<div class="container">
+				<!-- Footer Address -->
+				<div>
+					<div class="row footer-contact-desc">
+						<div class="col-md-4">
+							<div class="contact-inner">
+								<i class="fa fa-map-marker"></i>
+								<h4 class="contact-title">Address</h4>
+								<p class="contact-desc">
+									Naginbhai Wasa Marg, Near Govt. Godown<br>
+									Savroli Road, Shahapur. Dist-Thane.(MH) 421601
+								</p>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="contact-inner">
+								<i class="fa fa-phone"></i>
+								<h4 class="contact-title">Phone Number</h4>
+								<p class="contact-desc">
+									02527-272102<br>
+									02527-270166
+								</p>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="contact-inner">
+								<i class="fa fa-map-marker"></i>
+								<h4 class="contact-title">Email Address</h4>
+								<p class="contact-desc">
+									sbcollege123@yahoo.com<br>
+									
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			
+			<!-- Footer Top -->
+            <div class="footer-top">
+                <div class="container">
+                    <div class="row">
+                        <!--<div class="col-lg-3 col-md-12">
+                            <div class="about-widget">
+                                <img src="images/logo-footer.png" alt="Footer Logo">
+                                <p>We create Premium Html Themes for more than three years. Our team goal is to reunite the elegance of unique.</p>
+                                <p class="margin-remove">We create Unique and Easy To Use Flexible Html Themes.</p>
+                            </div>
+                        </div>-->
+                       <div class="col-lg-3 col-md-12">
+                            <h5 class="footer-title">USEFUL LINKS</h5>
+                            <div class="recent-post-widget">
+                                <div class="post-item">
+                                    <div class="post-date">
+                                        <span></span>
+                                        <span></span>
+                                    </div>
+                                    <div class="post-desc">
+                                        <h5 class="post-title"><a href="http://mu.ac.in/portal/">Mumbai University</a></h5>
+                                       <!-- <span class="post-category">Keyword Analysis</span>-->
+                                    </div>
+                                </div>
+                                <div class="post-item">
+                                    <div class="post-date">
+                                        <span></span>
+                                        <span></span>
+                                    </div>
+                                    <div class="post-desc">
+                                        <h5 class="post-title"><a href="https://www.india.gov.in/">National Portal of India</a></h5>
+                                        <!--<span class="post-category">Spoken English</span>-->
+                                    </div>
+                                </div>
+								<div class="post-item">
+                                    <div class="post-date">
+                                        <span></span>
+                                        <span></span>
+                                    </div>
+                                    <div class="post-desc">
+                                        <h5 class="post-title"><a href="https://swayam.gov.in/explorer">Swayam - Online Free Courses</a></h5>
+                                        <!--<span class="post-category">Spoken English</span>-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-12">
+                            <h5 class="footer-title">OUR SITEMAP</h5>
+                            <ul class="sitemap-widget">
+                                <li class="active"><a href="index.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Home</a></li>
+                                <li ><a href="history.html"><i class="fa fa-angle-right" aria-hidden="true"></i>About</a></li>
+                                <li><a href="courses.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Courses</a></li>
+                                <li><a href="scholarship.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Scholarship</a></li>
+                                <li><a href="examination.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Examination</a></li>
+                                <li><a href="vision&mission.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Vision &amp Mission</a></li>
+                                <li><a href="http://library.sbcshahapur.ac.in/"><i class="fa fa-angle-right" aria-hidden="true"></i>Library</a></li>
+                                <li><a href="iqac.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Naac Details</a></li>
+                                <!--<li><a href="teachers.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Teachers</a></li>
+                                <li><a href="teachers-single.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Teachers Details</a></li>-->
+                                <li><a href="contact.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Contact</a></li>
+                                <li><a href="error-404.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Error 404</a></li>
+                            </ul>
+                        </div>
+                        
+                        
+                    </div>
+                    <div class="footer-share">
+                        <ul>
+                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
+                            <li><a href="#"><i class="fa fa-vimeo"></i></a></li>    
+                        </ul>
+                    </div>                                
+                </div>
+            </div>
+
+            <!-- Footer Bottom -->
+            <div class="footer-bottom">
+                <div class="container">
+                    <div class="copyright">
+                        <p>© 2019-20 <a href="#">S. B. College,Shahapur</a>. All Rights Reserved.</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Footer End -->
+
+        <!-- start scrollUp  -->
+        <div id="scrollUp">
+            <i class="fa fa-angle-up"></i>
+        </div>
+        
+        <!-- Search Modal Start -->
+        <div aria-hidden="true" class="modal fade search-modal" role="dialog" tabindex="-1">
+        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+	          <span aria-hidden="true" class="fa fa-close"></span>
+	        </button>
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="search-block clearfix">
+                        <form>
+                            <div class="form-group">
+                                <input class="form-control" placeholder="eg: Computer Technology" type="text">
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Search Modal End -->
+         
+
+        <!-- modernizr js -->
+        <script src="js/modernizr-2.8.3.min.js"></script>
+        <!-- jquery latest version -->
+        <script src="js/jquery.min.js"></script>
+        <!-- bootstrap js -->
+        <script src="js/bootstrap.min.js"></script>
+        <!-- owl.carousel js -->
+        <script src="js/owl.carousel.min.js"></script>
+		<!-- slick.min js -->
+        <script src="js/slick.min.js"></script>
+        <!-- isotope.pkgd.min js -->
+        <script src="js/isotope.pkgd.min.js"></script>
+        <!-- imagesloaded.pkgd.min js -->
+        <script src="js/imagesloaded.pkgd.min.js"></script>
+        <!-- wow js -->
+        <script src="js/wow.min.js"></script>
+        <!-- counter top js -->
+        <script src="js/waypoints.min.js"></script>
+        <script src="js/jquery.counterup.min.js"></script>
+        <!-- magnific popup -->
+        <script src="js/jquery.magnific-popup.min.js"></script>
+        <!-- rsmenu js -->
+        <script src="js/rsmenu-main.js"></script>
+        <!-- plugins js -->
+        <script src="js/plugins.js"></script>
+		 <!-- main js -->
+        <script src="js/main.js"></script>
+    </body>
+
+<!-- Mirrored from keenitsolutions.com/products/html/edulearn/edulearn-demo/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 17 Jun 2019 15:35:13 GMT -->
+</html>

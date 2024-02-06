@@ -25,41 +25,42 @@
             
             <h4>UDIS Code: 09570500122</h4>
         </div>
-            <div class="footer-social-icon">
-                <a href="#"><i class="fab fa-facebook-f facebook-bg"></i></a>
+            <div class="top_fav">
+                <a href="#"><i class="fa-brands fa-facebook"></i></a>
                 <a href="#"><i class="fab fa-twitter twitter-bg"></i></a>
-                <a href="#"><i class="fab fa-google-plus-g google-bg"></i></a>
+                <a href="#"><i class="fa-solid fa-envelope"></i></a>
+                <a href="#"><i class="fa-brands fa-instagram"></i></a>
             
         </div>
     </div>
 
     <div class="my_menu">
         <ul class="menu">
-            <li><a href="http://">Home</a></li>
-            <li><a href="http://">Why Choose Us</a></li>
-            <li><a href="http://">About Us <i class="fa-solid fa-angle-down"></i></a>
+            <li><a href="http://127.0.0.1:5501/St.Thomas/index.html#">Home</a></li>
+            <li><a href="http://127.0.0.1:5501/St.Thomas/Why_choose_us.html">Why Choose Us</a></li>
+            <li><a href="http://127.0.0.1:5501/St.Thomas/About.html">About Us <i class="fa-solid fa-angle-down"></i></a>
                 <ul class="about_us">
-                    <li><a href="http://">Aims And Objectives</a></li>
-                    <li><a href="http://">Our School</a></li>
-                    <li><a href="http://">Our Vision</a></li>
-                    <li><a href="http://">Principal's Message</a></li>
+                    <li><a href="http://127.0.0.1:5501/St.Thomas/About.html">Aims And Objectives</a></li>
+                    <li><a href="http://127.0.0.1:5501/St.Thomas/About.html">Our School</a></li>
+                    <li><a href="http://127.0.0.1:5501/St.Thomas/About.html">Our Vision</a></li>
+                    <li><a href="http://127.0.0.1:5501/St.Thomas/About.html">Principal's Message</a></li>
                 </ul>
             </li>
-            <li><a href="http://">Prospectus <i class="fa-solid fa-angle-down"></i></a>
+            <li><a href="http://127.0.0.1:5501/St.Thomas/Prospectus.html">Prospectus <i class="fa-solid fa-angle-down"></i></a>
                 <ul>
-                    <li><a href="http://">Download Prospectus</a></li>
-                    <li><a href="http://">Beyond The Classroom</a></li>
-                    <li><a href="http://">Admission Procedure</a></li>
-                    <li><a href="http://">School Timing</a></li>
-                    <li><a href="http://">Fee Structure</a></li>
-                    <li><a href="http://">School Uniform</a></li>
-                    <li><a href="http://">Examination</a></li>
-                    <li><a href="http://">Educational Tours</a></li>
+                    <li><a href="Prospectus.pdf">Download Prospectus</a></li>
+                    <li><a href="http://127.0.0.1:5501/St.Thomas/Prospectus.html">Beyond The Classroom</a></li>
+                    <li><a href="http://127.0.0.1:5501/St.Thomas/Prospectus.html">Admission Procedure</a></li>
+                    <li><a href="http://127.0.0.1:5501/St.Thomas/Prospectus.html">School Timing</a></li>
+                    <li><a href="http://127.0.0.1:5501/St.Thomas/Prospectus.html">Fee Structure</a></li>
+                    <li><a href="http://127.0.0.1:5501/St.Thomas/Prospectus.html">School Uniform</a></li>
+                    <li><a href="http://127.0.0.1:5501/St.Thomas/Prospectus.html">Examination</a></li>
+                    <li><a href="http://127.0.0.1:5501/St.Thomas/Prospectus.html">Educational Tours</a></li>
                 </ul>
             </li>
 
             </li>
-            <li><a href="http://">Contact Us</a></li>
+            <li><a href="http://127.0.0.1:5501/St.Thomas/Contact.html">Contact Us</a></li>
         </ul>
 
     </div>
@@ -253,10 +254,9 @@
             <div class="footer_bg">
                 <div class="footer">
                     <div class="footer_icon">
-                        <i class="fa-solid fa-school"></i>
+                        <a href="http://"><i class="fa-solid fa-school"></i></a>
                         <div class="cta-text">
                             <h1>St.thomas School Junior High School</h1>
-                            <span></span>
                         </div>
                     </div>
                     <div class="footer_icon">
@@ -284,8 +284,9 @@
                     </div>
                 </div>
                
-                <div class="footer_bg_one"></div>
+                    <div class="footer_bg_one"></div>
                 <div class="footer_bg_two"></div>
+                
             </div>
         </div>
 
@@ -297,55 +298,7 @@
         <p>Copyright &copy; 2024, All Right Reserved <a
                 href="https://www.instagram.com/_vishal__1431?igsh=ZDBuYmwxeDVkcHhx"><i class="fa-brands fa-instagram"> "</i>Vishal Kumar Singh"</a></p>
     </div>
-<script>
-    let index = 0;
-displayImages();
-function displayImages() {
-  let i;
-  const images = document.getElementsByClassName("image");
-  for (i = 0; i < images.length; i++) {
-    images[i].style.display = "none";
-  }
-  index++;
-  if (index > images.length) {
-    index = 1;
-  }
-  images[index-1].style.display = "block";
-  setTimeout(displayImages, 2000); 
-}
 
-
-let slideIndex = 1;
-showSlides(slideIndex);
-
-function plusSlides(n) {
-  showSlides(slideIndex += n);
-}
-
-function currentSlide(n) {
-  showSlides(slideIndex = n);
-}
-
-function showSlides(n) {
-  let i;
-  let slides = document.getElementsByClassName("mySlides");
-  let dots = document.getElementsByClassName("demo");
-  let captionText = document.getElementById("caption");
-  if (n > slides.length) {slideIndex = 1}
-  if (n < 1) {slideIndex = slides.length}
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";
-  }
-  for (i = 0; i < dots.length; i++) {
-    dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIndex-1].style.display = "block";
-  dots[slideIndex-1].className += " active";
-  captionText.innerHTML = dots[slideIndex-1].alt;
-}
-
-
-</script>
 </body>
 
 </html>
