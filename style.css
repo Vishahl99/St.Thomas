@@ -80,7 +80,9 @@ ul {
 }
 
 .menu li:hover ul {
+    position: relative;
     display: block;
+    z-index: 5;
 }
 
 .name {
