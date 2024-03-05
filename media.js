@@ -10,3 +10,13 @@ function toggleMenu() {
     this.classList.toggle('open');
   });
   
+
+  document.querySelector('.read-more-message').addEventListener('click', function() {
+    
+    document.querySelector('.read-more-para').classList.toggle('expand');
+  });
+  document.querySelector('.read-more-message_p').addEventListener('click', function() {
+    
+    document.querySelector('.read-more-para_p').classList.toggle('expand');
+    document.querySelector('.read-more-message_p').style.display="none";
+  });
