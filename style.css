@@ -66,9 +66,8 @@ ul {
     height: auto;
     width: 100%;
     justify-content: center;
-
-
-
+    color: white;
+    font-weight: bold;
 }
 
 
@@ -81,6 +80,8 @@ ul {
 }
 
 .menu li:hover ul {
+    position: relative;
+    z-index: 5;
     display: block;
 }
 
@@ -109,7 +110,6 @@ ul {
     transition: 1s;
     transform: scale(0.8) rotate(-.5deg);
     border-radius: 20px;
-
 
 }
 
@@ -182,7 +182,7 @@ ul {
 }
 
 .gallary img {
-    width: 100%;
+    width: 200px;
     height: 200px;
     cursor: pointer;
 
@@ -255,8 +255,13 @@ ul {
 
 /* 7th */
 .location img {
-    width: 60vw;
-    height: 250px;
+    width: 50vw;
+    height: 200px;
+}
+.gmap iframe {
+    height: 200px;
+    width: 40vw;
+
 }
 
 .location {
@@ -307,7 +312,7 @@ ul {
     bottom: 0;
     left: 30%;
     -webkit-animation: myfirst 22s linear infinite;
-    animation: myfirst 2s linear infinite;
+    animation: myfirst 6s linear infinite;
 }
 
 .new_footer_top .footer_bg .footer_bg_two {
@@ -319,7 +324,7 @@ ul {
     left: 38%;
     position: absolute;
     -webkit-animation: myfirst 30s linear infinite;
-    animation: myfirst 5s linear infinite;
+    animation: myfirst 10s linear infinite;
 }
 
 
@@ -374,11 +379,7 @@ ul {
     padding: 8px;
 }
 
-.gmap iframe {
-    height: 300px;
-    width: 300px;
 
-}
 
 
 
@@ -491,4 +492,22 @@ ul {
 /* media */
 .about img{
     height: 200px;
+}
+
+
+/* About */
+/* About */
+/* About */
+/* About */
+
+@media screen and (min-width:500px) {
+    
+    .about-img{
+        height: 200px;
+    }
+   
+    /* .all-about{
+        text-align: center;
+        justify-content: center;
+    } */
 }

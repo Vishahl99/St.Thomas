@@ -12,15 +12,17 @@
       display: block;
     }
     .my_menu{
-      z-index: 1;
+      /* z-index: 1; */
       display: none;
       
       top: 30px;
-      left: 5px;
+      left: 15px;
       justify-content: space-between;
     }
+    .my_menu li{
+      z-index: 1;
+    }
     .menu-toggle {
-      z-index: 5;
       width: 30px;
       height: 20px;
       position: fixed;
@@ -30,6 +32,7 @@
       display: flex;
       flex-direction: column;
       justify-content: space-between;
+      
     }
   }
   @media only screen and (min-width: 611px){
@@ -37,14 +40,18 @@
       display: none; 
     }
   }
-
-
+  .my_menu li{
+    z-index: 1;
+  }
+/* .open li:hover{
+   background-color: black;
+} */
   
   
   .line {
     width: 100%;
     height: 4px;
-    background-color: #4cc9f0;
+    background-color: #07d2ff;
     transition: 0.3s;
   }
   
