@@ -34,6 +34,9 @@
       justify-content: space-between;
       
     }
+    .cta-text{
+    font-size: 55%;
+    }
   }
   @media only screen and (min-width: 611px){
     .menu-toggle{
