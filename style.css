@@ -81,8 +81,8 @@ ul {
 
 .menu li:hover ul {
     position: relative;
-    z-index: 5;
     display: block;
+    z-index: 5;
 }
 
 .name {
