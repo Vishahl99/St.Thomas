@@ -93,7 +93,10 @@ ul {
 .name:hover {
     background-color: caf0f8 !important;
 }
-
+.admission_open{
+background-color: white;
+color:rgb(255, 42, 0);
+}
 .menu li {
     list-style: none;
     width: 200px;
@@ -110,7 +113,6 @@ ul {
     transition: 1s;
     transform: scale(0.8) rotate(-.5deg);
     border-radius: 20px;
-
 
 }
 
@@ -493,4 +495,23 @@ ul {
 /* media */
 .about img{
     height: 200px;
+}
+
+
+
+/* About */
+/* About */
+/* About */
+/* About */
+
+@media screen and (min-width:500px) {
+    
+    .about-img{
+        height: 200px;
+    }
+   
+    /* .all-about{
+        text-align: center;
+        justify-content: center;
+    } */
 }
