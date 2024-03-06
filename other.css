@@ -1,0 +1,65 @@
+
+
+/* 3rd */
+.about{
+    background-color:  #4CC9F0  !important;
+    padding-left: 20%;
+    padding-right: 20%;
+    margin: 5vw;
+
+}
+.principle_img{
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+}
+.b_m{
+    display: block;
+ position: sticky;  
+   margin-top: auto;
+   margin-left: 250px;
+}
+.principle_img{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   }
+
+   .principle_image{
+    display: flex;
+}
+.p_image1{
+ flex:1;   
+img{
+    border-radius: 10%;
+}
+}
+
+.p_img1{
+    display: block;
+    background-color:#4CC9F0;
+    padding-left: 5%;
+    padding-top: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    border-radius: 20px;
+    margin-right: 5%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.p_image {
+    margin-top: 5vh !important;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+
+
+@media screen {
+    
+}
