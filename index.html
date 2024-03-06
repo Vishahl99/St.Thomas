@@ -156,40 +156,50 @@
     <hr>
     
     <!-- 5th -->
-    <u>
-        <h1 style="text-align: center;">Image Gallary</h1>
-    </u>
+   <div class="main_gallary">
+     <div class="gallary_main_child">
+         <a href="images.html"><h1 style="text-align: center;">Image Gallary</h1>
 
-    <div class="full-img" id="fullimgbox">
-        <img src="image\2.jpg" id="fullimg">
-        <span onclick="closefullimg()">✖️</span>
-    </div>
-    <div class="gallary">
-
-
-        <img src="image\1.jpg" onclick="openfullimg(this.src)">
-        <img src="image\2.jpg" onclick="openfullimg(this.src)">
-        <img src="image\3.jpg" onclick="openfullimg(this.src)">
-        <img src="image\i1.jpg" onclick="openfullimg(this.src)">
-        <img src="image\i2.jpg" onclick="openfullimg(this.src)">
-        <img src="image\IMG_20220813_103702.jpg" onclick="openfullimg(this.src)">
-        <img src="image\1ddd90ba-8348-4159-b059-3468d92631eb.jpg" onclick="openfullimg(this.src)">
-        <a href="images.html"><img src="image\view more.jpg" ></a>
-    </div>
-    <script>var fullimgbox = document.getElementById("fullimgbox");
-        var fullimg = document.getElementById("fullimg");
-
-        function openfullimg(pic) {
-            fullimgbox.style.display = "flex";
-            fullimg.src = pic;
-        }
-
-        function closefullimg() {
-            fullimgbox.style.display = "none";
-        }
-    </script>
-    <hr>
-
+        <div class="gallary">
+            <span style="--i:1">
+              <img src="image\1.jpg" >
+              <img src="image\1.jpg" >
+            </span>
+            <span style="--i:2">
+                <img src="image\2.jpg" >
+                <img src="image\2.jpg" >
+              </span>
+              <span style="--i:3">
+                <img src="image\3.jpg" >
+                <img src="image\3.jpg" >
+              </span>
+              <span style="--i:4">
+                <img src="image\4.jpg" >
+                <img src="image\4.jpg" >
+              </span>
+              <span style="--i:5">
+                <img src="image\c50ba0af-c81f-42d9-9d77-26aa64e0e92e.jpg" >
+                <img src="image\c50ba0af-c81f-42d9-9d77-26aa64e0e92e.jpg" >
+              </span>
+              <span style="--i:6">
+                
+                <img src="image\i1.jpg" >
+                <img src="image\i1.jpg" >
+              </span>
+              <span style="--i:7">
+                <img src="image\i1.jpg" >
+                <img src="image\i1.jpg" >
+              </span>
+        <!-- <a href="images.html"><img style="height: 100px;" src="image\3.jpg" ></a> -->
+    
+              <span style="--i:8">
+                <img src="image\i1.jpg" >
+                <img src="image\i1.jpg" >
+              </span>
+          </div>
+        
+     </div>
+   </div>
     <!-- 6th -->
 
 
