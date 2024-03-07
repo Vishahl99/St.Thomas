@@ -215,7 +215,7 @@
       display: none; 
     }
     .floating-img img{
-      height: 500px;
+      max-height: 500px;
     }
     .gallary_main_child{
       margin: 5px;
