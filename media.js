@@ -20,3 +20,7 @@ function toggleMenu() {
     document.querySelector('.read-more-para_p').classList.toggle('expand');
     document.querySelector('.read-more-message_p').style.display="none";
   });
+  document.querySelector('.read-more-message_why').addEventListener('click', function() {
+    document.querySelector('.why').classList.toggle('expand');
+    document.querySelector('.read-more-message_why').style.display="none";
+  });
