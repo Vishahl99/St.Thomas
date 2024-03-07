@@ -1,3 +1,4 @@
+/* small screen */
 @media only screen and (max-width: 610px) {
   .top{
     
@@ -163,7 +164,7 @@
     }
   .gallary {
     display: grid;
-    width: 180px;
+    width: 200px;
     height: 150px;
     transform-style:preserve-3d;
     animation:rotate 30s linear infinite; 
@@ -194,8 +195,12 @@
     object-fit: cover;
     border-radius: 5%;
   }
-  
+  .floating-img img{
+    height: 300px;
   }
+  }
+
+  /*  big screen */
   @media only screen and (min-width: 611px){
     .menu-toggle{
       display: none; 
@@ -209,7 +214,9 @@
     .read-more-message_why {
       display: none; 
     }
-    
+    .floating-img img{
+      height: 500px;
+    }
     .gallary_main_child{
       margin: 5px;
       padding: 30px;
@@ -223,7 +230,7 @@
   }
   .gallary {
     display: grid;
-    width: 250px;
+    width: 270px;
     height: 200px;
     transform-style:preserve-3d;
     animation:rotate 30s linear infinite; 
