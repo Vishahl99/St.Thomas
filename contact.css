@@ -1,19 +1,11 @@
-*, *:before, *:after {
-    box-sizing: border-box;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-  }
+
   
   body {
-    background: linear-gradient(to right, #ea1d6f 0%, #eb466b 100%);
-    font-size: 12px;
+    /* background: linear-gradient(to right, #ea1d6f 0%, #eb466b 100%); */
+  
   }
   
-  body, button, input {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 700;
-    letter-spacing: 1.4px;
-  }
+
   
   .background {
     display: flex;
@@ -41,7 +33,7 @@
     right: 20px;
     bottom: 0;
     border-radius: 15px;
-    box-shadow: 0 20px 40px rgba(183, 97, 97, 0.4);
+    box-shadow: 0 20px 40px rgba(155, 53, 53, 0.4);
     z-index: -1;
   }
   
